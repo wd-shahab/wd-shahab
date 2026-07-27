@@ -79,6 +79,18 @@ Third-year Manufacturing Engineering student with a strong passion for software 
 
 <br>
 
+
+# 📚 Learning Journey
+
+<details open>
+<summary><strong>🗂️ Data Structures (1)</strong></summary>
+
+- ✅  **Hash Table** → [C-Hash-Table](https://github.com/wd-shahab/C-hash-table)
+
+</details>
+
+<br>
+
 <div align="center">
 
 📌 *"Deep understanding takes time, but it builds unbreakable foundations."*
